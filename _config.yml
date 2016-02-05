@@ -1,14 +1,29 @@
+name: JEllison Images
+favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.3163265
+title: 'Images, moving and still'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9830576
-  lightness: 0.3413822
-  brandStrength: 0.8694951
   brandColors:
     - '#333333'
     - '#FFFFFF'
     - '#9D3A94'
     - '#6E6E6E'
     - '#B5B5B5'
+  brandStrength: 0.8694951
+  lightness: 0.3413822
+  saturation: 0.9830576
   rhythmicContrast: 0.9137009
-name: JEllison Images
+purpose: []
