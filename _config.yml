@@ -1,29 +1,41 @@
-name: JEllison Images
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.3163265
 title: 'Images, moving and still'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.9830576
+  brandStrength: 0.3152524
+  lightness: 0.3413822
   brandColors:
     - '#333333'
     - '#FFFFFF'
     - '#9D3A94'
     - '#6E6E6E'
     - '#B5B5B5'
-  brandStrength: 0.8694951
-  lightness: 0.3413822
-  saturation: 0.9830576
-  rhythmicContrast: 0.9137009
-purpose: []
+  rhythmicContrast: 0.3131042
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: JEllison Images
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.3163265
+layout_spectrum: 1
